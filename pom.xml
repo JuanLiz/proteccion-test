@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.juanliz</groupId>
     <artifactId>protecciontest</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <name>protecciontest</name>
     <description>protecciontest</description>
     <url />
