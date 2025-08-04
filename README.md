@@ -7,7 +7,7 @@ API de tareas creada como parte de la prueba de postulación para Protección.
 **API desplegada en:** [https://protecciontest.juanliz.com/swagger-ui/index.html](https://protecciontest.juanliz.com/swagger-ui/index.html)
 
 - Administrador de prueba: `admin`,
-  Contraseña: `admin`
+  Contraseña: `admin.`
 
 - Usuario de prueba: `user2`
   Contraseña: `user222.`
