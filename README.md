@@ -25,4 +25,4 @@ API de tareas creada como parte de la prueba de postulación para la Protección
   - Ver tareas por usuario según su rol, autenticación y estado (creado por el usuario o asignado a él).
 
 - **Despliegue e integración continua:**
-  - Despliegue automático en servidor privado de con WAF de Cloudflare utilizando GitHub Actions.
+  - Despliegue automático en servidor privado mediante SSH usando pipelines de GitHub Actions.
