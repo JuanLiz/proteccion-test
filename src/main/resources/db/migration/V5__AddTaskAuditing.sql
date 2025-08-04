@@ -1,0 +1,17 @@
+ALTER TABLE task
+    ADD created_at TIMESTAMP WITHOUT TIME ZONE;
+
+ALTER TABLE task
+    ADD created_by VARCHAR(255);
+
+ALTER TABLE task
+    ADD updated_at TIMESTAMP WITHOUT TIME ZONE;
+
+ALTER TABLE task
+    ADD updated_by VARCHAR(255);
+
+ALTER TABLE task
+    DROP COLUMN due_date;
+
+ALTER TABLE task
+    ADD due_date TIMESTAMP WITHOUT TIME ZONE;

@@ -1,0 +1,5 @@
+ALTER TABLE task
+    DROP COLUMN due_date;
+
+ALTER TABLE task
+    ADD due_date TIMESTAMP WITHOUT TIME ZONE;
