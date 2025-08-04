@@ -2,7 +2,7 @@
 
 [![Estado del Flujo de Trabajo de GitHub Actions](https://github.com/JuanLiz/proteccion-test/actions/workflows/deployment.yml/badge.svg)](https://github.com/JuanLiz/proteccion-test/actions/workflows/deployment.yml)
 
-API de tareas creada como parte de la prueba de postulación para la Protección.
+API de tareas creada como parte de la prueba de postulación para Protección.
 
 **API desplegada en:** [https://protecciontest.juanliz.com/swagger-ui/index.html](https://protecciontest.juanliz.com/swagger-ui/index.html)
 
